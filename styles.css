@@ -1,0 +1,34 @@
+.bg-image {
+    background-image: url(./imagess/pngtree-luxury-background-with-golden-round-circle-abstract-editable-vector-image-picture-image_1239008.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#butn {
+    background-color: white;
+    border-radius: 10px;
+    width: 120px;
+    color: black;
+}
+#butn:hover{
+    background-color: black;
+    color: white;
+    transition: 2s;
+}
+#alum h2{
+    color: aqua;
+    
+}
+/*.allpage {
+    width: 1024px;
+    background-color: aliceblue;
+    align-items: center;
+    margin: 0 auto;
+}*/
+@media screen and (min-width: 1024px){
+    .allpage {
+        width: 1024px;
+        background-color: antiquewhite;
+        margin: 0 auto;
+    }
+}
+ 
